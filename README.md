@@ -14,12 +14,14 @@
 
 
 </br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akankshaaa08&show_icons=true&theme=radical)
-</br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akankshaaa08&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </br></br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akankshaaa08&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshaaa08&show_icons=true&theme=radical" alt="akankshaaa08" /></p>
 </br></br>
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=akankshaaa08&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![snake gif](https://github.com/akankshaaa08/akankshaaa08/blob/output/github-contribution-grid-snake.svg)
